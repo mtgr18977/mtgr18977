@@ -1,6 +1,7 @@
 # 📚 Paulo Duarte
 
-Bem-vindo ao meu portfólio de projetos no GitHub! Sou Paulo, um profissional com experiência em Technical Writing, desenvolvimento em Python, análise de sistemas, documentação técnica para cibersegurança e expertise em automação e análise de dados. Meu foco está em desenvolver soluções inovadoras e documentações de alta qualidade que otimizem a experiência do usuário e melhorem a performance de produtos técnicos.
+Oi, eu sou o Paulo :D 
+Eu tenho experiência em Technical Writing, desenvolvimento em Python, análise de sistemas e automação e análise de dados. Meu foco está em desenvolver soluções inovadoras e documentações de alta qualidade que otimizem a experiência do usuário e melhorem a performance de produtos técnicos.
 
 ## Informações gerais
 - Technical Writer (redator técnico) no senhasegura.
