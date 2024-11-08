@@ -1,6 +1,7 @@
 # 📚 Paulo Duarte
 
 Oi, eu sou o Paulo :D 
+
 Eu tenho experiência em Technical Writing, desenvolvimento em Python, análise de sistemas e automação e análise de dados. Meu foco está em desenvolver soluções inovadoras e documentações de alta qualidade que otimizem a experiência do usuário e melhorem a performance de produtos técnicos.
 
 ## Informações gerais
