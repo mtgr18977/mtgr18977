@@ -6,13 +6,13 @@ Eu tenho experiência em Technical Writing, desenvolvimento em Python, análise 
 
 ## Informações gerais
 - Technical Writer (redator técnico) no senhasegura.
-- Formado em Letras pela UFRGS, estudando Análise de Sistemas pela Cruzeiro do Sul e Especialização em Inteligência Artificial pela UFV.
+- Formado em Letras pela UFRGS.
         
 ## Principais projetos
-- [Docs To Doc](https://github.com/mtgr18977/Docs-to-Doc): ferramenta de migração do Document360 para markdown. Technologia: Python (tkinter + markdonify).
-- [Ferramentas Simples](https://github.com/mtgr18977/FerramentasSimplesWeb): uma série de ferramentas simples para o dia-a-dia. Tecnologia: HTML, CSS e Javascript.
-- [Verbalize](https://github.com/mtgr18977/Verbalize): um editor de textos em markdown que auxilia na escrita em português brasileiro, dando dicas sobre o tamanho de frases, palavras complexas e uso de jargões. Tecnologia: HTML, CSS e Javascript.
-- [Leiturabilidade](https://github.com/mtgr18977/leiturabilidade): aplicação que faz a análise de leiturabilidade (em português ou inglês). Tecnologia: Python (streamlit + NLTK).
+- [Docs To Doc](https://github.com/mtgr18977/Docs-to-Doc) é ferramenta de migração do Document360 para markdown. Technologia: Python (tkinter + markdonify).
+- [Ferramentas Simples](https://github.com/mtgr18977/FerramentasSimplesWeb) consiste em uma série de ferramentas simples para o dia-a-dia. Tecnologia: HTML, CSS e Javascript.
+- [Verbalize](https://github.com/mtgr18977/Verbalize) é um editor de textos em markdown que auxilia na escrita em português brasileiro, dando dicas sobre o tamanho de frases, palavras complexas e uso de jargões. Tecnologia: HTML, CSS e Javascript.
+- [Leiturabilidade](https://github.com/mtgr18977/leiturabilidade) é uma aplicação que faz a análise de leiturabilidade (em português ou inglês). Tecnologia: Python (streamlit + NLTK).
 
 ## Habilidades
 - Processamento de linguagem natural.
@@ -24,6 +24,6 @@ Eu tenho experiência em Technical Writing, desenvolvimento em Python, análise 
 - Desenvolvimento Python.
 
 ## Contato
-- [Email](mailto:guilhermepilotti@gmail.com)
+- [Email](mailto:paulo@paulogpd.com.br)
 - [LinkedIn](https://www.linkedin.com/in/paulogpd/)
 - [Portfólio](https://paulogpd.com.br/)
