@@ -9,7 +9,7 @@ Eu tenho experiência em Technical Writing, desenvolvimento em Python, análise 
 - Formado em Letras pela UFRGS.
         
 ## Principais projetos
-- [Docs To Doc](https://github.com/mtgr18977/Docs-to-Doc) é ferramenta de migração do Document360 para markdown. Technologia: Python (tkinter + markdonify).
+- [Docs To Doc](https://github.com/mtgr18977/Docs-to-Doc) é uma ferramenta de migração do *Document360* para markdown. Technologia: Python (tkinter + markdonify).
 - [Ferramentas Simples](https://github.com/mtgr18977/FerramentasSimplesWeb) consiste em uma série de ferramentas simples para o dia-a-dia. Tecnologia: HTML, CSS e Javascript.
 - [Verbalize](https://github.com/mtgr18977/Verbalize) é um editor de textos em markdown que auxilia na escrita em português brasileiro, dando dicas sobre o tamanho de frases, palavras complexas e uso de jargões. Tecnologia: HTML, CSS e Javascript.
 - [Leiturabilidade](https://github.com/mtgr18977/leiturabilidade) é uma aplicação que faz a análise de leiturabilidade (em português ou inglês). Tecnologia: Python (streamlit + NLTK).
