@@ -54,6 +54,11 @@ Eu tenho experiência em Technical Writing, desenvolvimento em Python, análise 
 - **CLI Development** - Ferramentas de linha de comando
 - **Netlify/Deploy** - Entrega contínua
 
+## Estatísticas
+
+[![GitHub followers](https://img.shields.io/github/followers/mtgr18977?style=social)](https://github.com/mtgr18977)
+[![GitHub stars](https://img.shields.io/github/stars/mtgr18977?style=social)](https://github.com/mtgr18977)
+
 
 ## 📊 Tecnologias
 
