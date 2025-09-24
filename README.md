@@ -12,7 +12,7 @@ Desenvolvedor Python e Technical Writer com 3+ anos criando ferramentas que otim
 - [Jogos simples](https://github.com/mtgr18977/jogos_simples) - Coleção de jogos clássicos feitos em JavaScript
 - [Parecer total](https://github.com/mtgr18977/parecer-total) - Gerador de pareceres descritivos conforma as normas da LDB, útil aos professores que desejam automatizar o processo
 - [Sassamaru-25-BR](https://github.com/mtgr18977/sassamaru-br-25) - Este projeto implementa um modelo híbrido de previsão de partidas de futebol, combinando a força estatística do modelo de Poisson com o ajuste dinâmico do rating Elo.
-- - [Sassamaru-25 Standalone](https://github.com/mtgr18977/sassamaru-25-standalone) - Versão standalone do previsor de resultados do Campeonato Brasileiro utilizando modelo híbrido Poisson + ELO, com ajuste por forma recente e ponderação de resultados baseada na diferença de ELO
+- [Sassamaru-25 Standalone](https://github.com/mtgr18977/sassamaru-25-standalone) - Versão standalone do previsor de resultados do Campeonato Brasileiro utilizando modelo híbrido Poisson + ELO, com ajuste por forma recente e ponderação de resultados baseada na diferença de ELO
 
 ## 💻 Core Technologies
 - Python
