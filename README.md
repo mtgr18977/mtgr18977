@@ -1,76 +1,44 @@
-# Paulo Guilherme Pilotti Duarte
+# Technical Writer & Full Stack Developer especialista em transformar tecnologia complexa em soluções acessíveis
 
-Oi, eu sou o Paulo :D
+Desenvolvedor Python e Technical Writer com 3+ anos criando ferramentas que otimizam workflows e documentação técnica. Experiência comprovada em reduzir tempo de documentação em 76% e diminuir solicitações de suporte em 30% através de automação e interfaces inteligentes.
 
-Eu tenho experiência em Technical Writing, desenvolvimento em Python, análise de sistemas e automação e análise de dados. Meu foco está em desenvolver soluções inovadoras e documentações de alta qualidade que otimizem a experiência do usuário e melhorem a performance de produtos técnicos.
+## 🚀 Professional Impact
+- WriteChoice - Desenvolvendo documentação para clientes internacionais
+- Segura - Criou o guia de estilos e as ferramentas de IA que automatizaram os processos de documentação
+- Azion Edge Computing - Criou o guia de estilos e atuou na documentação dos novos sistemas da empresa, com foco em Dev Writing para Developer Experience.
 
-## Informações Gerais
+## 🛠️ Featured Projects
+- [Ferramentas Simples](https://github.com/mtgr18977/FerramentasSimplesWeb) - Conjunto de ferramentas úteis para produtividade diária
+- [Jogos simples](https://github.com/mtgr18977/jogos_simples) - Coleção de jogos clássicos feitos em JavaScript
+- [Parecer total](https://github.com/mtgr18977/parecer-total) - Gerador de pareceres descritivos conforma as normas da LDB, útil aos professores que desejam automatizar o processo
+- [Sassamaru-25-BR](https://github.com/mtgr18977/sassamaru-br-25) - Este projeto implementa um modelo híbrido de previsão de partidas de futebol, combinando a força estatística do modelo de Poisson com o ajuste dinâmico do rating Elo.
+- - [Sassamaru-25 Standalone](https://github.com/mtgr18977/sassamaru-25-standalone) - Versão standalone do previsor de resultados do Campeonato Brasileiro utilizando modelo híbrido Poisson + ELO, com ajuste por forma recente e ponderação de resultados baseada na diferença de ELO
 
-- **Technical Writer** (redator técnico) no senhasegura
-- **Formado em Letras** pela UFRGS
-- Especializado em ferramentas para **português brasileiro**
+## 💻 Core Technologies
+- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logo.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black/badge/-React-61DAFB?style=flat-squareio/badge/-FastAPI-009688?style=flat-square&
+- ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon APIs
+Python (FastAPI, Flask, Django) - REST APIs - Microservices - System Integrations
 
+## Frontend & Web
+- React.js | JavaScript | HTML5/CSS3 | Single Page Applications | Responsive Design
+- DevOps & Cloud
+- Docker | AWS/Azure/GCP | CI/CD Pipelines | GitHub Actions | Containerization
 
-## Projetos em Destaque
+## Specialized Skills
+- Technical Writing
+- API Documentation
+- Linguistic Automation
+- Portuguese NLP
+- Quality Assurance
+- Pyhon and JS development
 
-### Ferramentas Web
+## 📚 Education & Certifications
+- Bacharel em Letras - Inglês | UFRGS (2016) 
+- Estatística e Machine Learning | USP (2024) 
+- Pós-graduação em Ciência da Computação | Anhanguera | 2023 
+- Fluente em Inglês - Colaboração com equipes internacionais
 
-- **[EEETranslate](https://eeetranslate.netlify.app/)** - Plataforma CAT com inteligência artificial que integra a API do Gemini para traduções precisas e contextuais
-- **[Verbalize Editor](https://verbalize-editor.netlify.app/)** - Editor Markdown com análise gramatical avançada específica para português brasileiro
-- **[Edit-BR](https://edit-br.netlify.app/)** - Editor inteligente com correção de leiturabilidade usando a API Maritaca
-- **[DocsDocs](https://docsdocs.netlify.app/)** - Plataforma moderna para publicação de documentação técnica
+🎯 Current Focus
+Atualmente desenvolvendo soluções que integram IA e automação para otimizar workflows de documentação e comunicação técnica. Especializado em criar ferramentas que reduzem complexidade e aumentam produtividade para desenvolvedores e redatores técnicos.
 
-
-### ️ Ferramentas CLI e Python
-
-- **[Docs CLI Toolkit](https://github.com/mtgr18977/docs-cli-toolkit)** - Conjunto de ferramentas de linha de comando para automatizar tarefas de documentação técnica
-- **[Text Tools](https://github.com/mtgr18977/text-tools)** - Coleção de utilitários especializados para redatores técnicos
-- **[Ferramentas Simples](https://github.com/mtgr18977/FerramentasSimplesWeb)** - Série de ferramentas úteis para o dia-a-dia
-
-
-## Habilidades Principais
-
-### Linguagem e Escrita
-
-- Processamento de linguagem natural
-- Linguística Computacional
-- Tradução e Localização
-- Escrita técnica
-- Documentação técnica
-
-
-### Desenvolvimento
-
-- **Python** - Automação e análise de dados
-- **JavaScript/TypeScript** - Desenvolvimento web
-- **React/Next.js** - Interfaces modernas
-- **APIs de IA** - Integração com LLMs (Gemini, Maritaca)
-
-
-### Ferramentas e Tecnologias
-
-- **CAT Tools** - Ferramentas de tradução assistida
-- **Markdown** - Criação de documentação
-- **CLI Development** - Ferramentas de linha de comando
-- **Netlify/Deploy** - Entrega contínua
-
-## Estatísticas
-
-[![GitHub followers](https://img.shields.io/github/followers/mtgr18977?style=social)](https://github.com/mtgr18977)
-[![GitHub stars](https://img.shields.io/github/stars/mtgr18977?style=social)](https://github.com/mtgr18977)
-
-
-## 📊 Tecnologias
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-
-
-## Contato
-
-- 📧 [Email](mailto:paulo@paulogpd.com.br)
-- 💼 [LinkedIn](https://www.linkedin.com/in/paulogpd/)
-- 🌐 [Portfólio](https://portfolio-paulo.vercel.app/)
-- 🐙 [GitHub](https://github.com/mtgr18977)
+[![GitHub followers](https://img.shields.io/github/followers/mtgtps://img.shields.io/github/stars/mtgr:** paulo@paulogpd.com.br | [LinkedIn](https://www.linkedin.com/in/paulogpd/)
