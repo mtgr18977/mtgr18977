@@ -3,9 +3,9 @@
 Desenvolvedor Python e Technical Writer com 3+ anos criando ferramentas que otimizam workflows e documentação técnica. Experiência comprovada em reduzir tempo de documentação em 76% e diminuir solicitações de suporte em 30% através de automação e interfaces inteligentes.
 
 ## 🚀 Professional Impact
-- WriteChoice - Desenvolvendo documentação para clientes internacionais
-- Segura - Criou o guia de estilos e as ferramentas de IA que automatizaram os processos de documentação
-- Azion Edge Computing - Criou o guia de estilos e atuou na documentação dos novos sistemas da empresa, com foco em Dev Writing para Developer Experience.
+- **WriteChoice** - Desenvolvendo documentação para clientes internacionais
+- **Segura** - Criou o guia de estilos e as ferramentas de IA que automatizaram os processos de documentação
+- **Azion Tech** - Criou o guia de estilos e atuou na documentação dos novos sistemas da empresa, com foco em Dev Writing para Developer Experience.
 
 ## 🛠️ Featured Projects
 - [Ferramentas Simples](https://github.com/mtgr18977/FerramentasSimplesWeb) - Conjunto de ferramentas úteis para produtividade diária
