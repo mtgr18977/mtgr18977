@@ -1,4 +1,4 @@
-# Technical Writer & Full Stack Developer especialista em transformar tecnologia complexa em soluções acessíveis
+# Technical Writer | Especialista em transformar tecnologia complexa em soluções acessíveis
 
 Desenvolvedor Python e Technical Writer com 3+ anos criando ferramentas que otimizam workflows e documentação técnica. Experiência comprovada em reduzir tempo de documentação em 76% e diminuir solicitações de suporte em 30% através de automação e interfaces inteligentes.
 
@@ -15,9 +15,11 @@ Desenvolvedor Python e Technical Writer com 3+ anos criando ferramentas que otim
 - - [Sassamaru-25 Standalone](https://github.com/mtgr18977/sassamaru-25-standalone) - Versão standalone do previsor de resultados do Campeonato Brasileiro utilizando modelo híbrido Poisson + ELO, com ajuste por forma recente e ponderação de resultados baseada na diferença de ELO
 
 ## 💻 Core Technologies
-- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logo.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black/badge/-React-61DAFB?style=flat-squareio/badge/-FastAPI-009688?style=flat-square&
-- ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon APIs
-Python (FastAPI, Flask, Django) - REST APIs - Microservices - System Integrations
+- Python
+- AWS
+- REST APIs
+- Microservices
+- System Integrations
 
 ## Frontend & Web
 - React.js | JavaScript | HTML5/CSS3 | Single Page Applications | Responsive Design
@@ -41,4 +43,4 @@ Python (FastAPI, Flask, Django) - REST APIs - Microservices - System Integration
 🎯 Current Focus
 Atualmente desenvolvendo soluções que integram IA e automação para otimizar workflows de documentação e comunicação técnica. Especializado em criar ferramentas que reduzem complexidade e aumentam produtividade para desenvolvedores e redatores técnicos.
 
-[![GitHub followers](https://img.shields.io/github/followers/mtgtps://img.shields.io/github/stars/mtgr:** paulo@paulogpd.com.br | [LinkedIn](https://www.linkedin.com/in/paulogpd/)
+Contato: paulo@paulogpd.com.br | [LinkedIn](https://www.linkedin.com/in/paulogpd/) | +55 51 999587120
