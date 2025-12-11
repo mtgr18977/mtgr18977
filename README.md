@@ -15,6 +15,7 @@ Python Developer and Technical Writer with 3+ years of experience creating tools
 - [Complete Assessment](https://github.com/mtgr18977/parecer-total) – Descriptive assessment generator compliant with LDB standards, designed to help teachers automate the evaluation process
 - [Sassamaru-25-BR](https://github.com/mtgr18977/sassamaru-br-25) – Hybrid football match prediction model combining the statistical power of Poisson distribution with dynamic Elo rating adjustments
 - [Sassamaru-25 Standalone](https://github.com/mtgr18977/sassamaru-25-standalone) – Standalone version of the Brazilian Championship results predictor using a hybrid Poisson + Elo model, with recent form adjustments and result weighting based on Elo differentials
+- [Street Fighter 6 - Companio App](https://github.com/mtgr18977/SF6-Companion-App) - Android app (`.apk`) to help new players on Street Fighter 6 to understand the game community terminology, get access to the characters' data frames, and the combo list.
 
 ## 💻 Core Technologies
 
