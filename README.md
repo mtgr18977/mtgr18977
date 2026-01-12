@@ -4,6 +4,7 @@ Python Developer and Technical Writer with 3+ years of experience creating tools
 
 ## 🚀 Professional Impact
 
+- **ABC Fitness** - Technical Writer.
 - **WriteChoice** – Developing documentation for international clients
 - **Segura** – Created the style guide and AI-powered tools that automated documentation processes
 - **Azion Tech** – Developed the style guide and contributed to documenting the company's new systems, focusing on Dev Writing for enhanced Developer Experience
