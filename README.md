@@ -17,6 +17,9 @@ Python Developer and Technical Writer with 3+ years of experience creating tools
 - [Sassamaru-25-BR](https://github.com/mtgr18977/sassamaru-br-25) – Hybrid football match prediction model combining the statistical power of Poisson distribution with dynamic Elo rating adjustments
 - [Sassamaru-25 Standalone](https://github.com/mtgr18977/sassamaru-25-standalone) – Standalone version of the Brazilian Championship results predictor using a hybrid Poisson + Elo model, with recent form adjustments and result weighting based on Elo differentials
 - [Street Fighter 6 - Companion App](https://github.com/mtgr18977/SF6-Companion-App) - Android app (`.apk`) to help new players on Street Fighter 6 to understand the game community terminology, get access to the characters' data frames, and the combo list.
+- [WebDAV Blog system](https://paulogpd.com.br/blog/) - WebDAV + Python blog system to use the Fastmail space and static site feature.
+- [API Documentation examples](https://paulogpd.com.br/api-docs/) - three API docs as an example of my workflow and style.
+- [Sassamaru BR-26](https://sassamaru-26.netlify.app/) - update on the previous prediction model (Sassamaru-25) with extended capabilities and a homepage with technical aspects and mini-apps.
 
 ## 💻 Core Technologies
 
